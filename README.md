@@ -1,2 +1,2 @@
-# LPUnitTestRepository1
-This is one of the repositories used to create READMEs for the unit tests for the readmeScraper.py script in the main landingpage project.
+#This project has no READMEs.
+Please ensure that the README file is in the root directory. If that is not the issue, good luck.
